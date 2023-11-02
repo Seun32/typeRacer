@@ -1,4 +1,5 @@
-package lecture15;
+package ChatRoom;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
